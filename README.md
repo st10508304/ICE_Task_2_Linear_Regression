@@ -1,6 +1,7 @@
 # ICE Task 2 – Linear Regression
 
 ## Student Name: Lungile Saula
+## Student Code: ST10508304
 
 ## Description
 This project predicts medical insurance charges using Linear Regression.
